@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  kube-tagger:
+  - apiVersion: v1
+    appVersion: 0.0.9
+    created: "2020-11-01T00:10:19.628145+01:00"
+    description: Helm Chart to inject TAGS to EBS
+    digest: 02c89aaea54235492aaa6640ba304b8e186adbd895b6f40dbf958359aed94b3e
+    home: https://github.com/sergiorua/kube-tagger
+    keywords:
+    - kube-tagger
+    kubeVersion: '>=1.11.8-eks-7c34c0'
+    maintainers:
+    - email: sandeep.lamba@grandparade.co.uk
+      name: slamba
+    - email: sergio@rua.me.uk
+      name: srua
+    name: kube-tagger
+    sources:
+    - https://github.com/sergiorua/kube-tagger
+    urls:
+    - kube-tagger-3.1.0.tgz
+    version: 3.1.0
+generated: "2020-11-01T00:10:19.626643+01:00"
