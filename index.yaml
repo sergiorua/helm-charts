@@ -3,9 +3,9 @@ entries:
   kube-tagger:
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2020-11-01T00:10:19.628145+01:00"
+    created: "2020-11-01T00:19:48.817828+01:00"
     description: Helm Chart to inject TAGS to EBS
-    digest: 02c89aaea54235492aaa6640ba304b8e186adbd895b6f40dbf958359aed94b3e
+    digest: a1b3c14d9a183ff3fa55b50c4c054a0a4e11f71bf26ffec0d56cb9b7b3f30586
     home: https://github.com/sergiorua/kube-tagger
     keywords:
     - kube-tagger
@@ -21,4 +21,4 @@ entries:
     urls:
     - kube-tagger-3.1.0.tgz
     version: 3.1.0
-generated: "2020-11-01T00:10:19.626643+01:00"
+generated: "2020-11-01T00:19:48.816082+01:00"
