@@ -3,7 +3,7 @@ entries:
   kube-tagger:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-05-22T20:23:46.354489+02:00"
+    created: "2021-05-24T21:48:30.382775+02:00"
     description: Helm Chart to inject TAGS to EBS
     digest: 9c83b7597900047457fe2e8a5a0ae6548c0c34972a19922a194b34550f323986
     home: https://github.com/sergiorua/kube-tagger
@@ -19,11 +19,11 @@ entries:
     sources:
     - https://github.com/sergiorua/kube-tagger
     urls:
-    - https://sergiorua.github.io/helm-chart/kube-tagger-3.2.0.tgz
+    - https://github.com/sergiorua/helm-charts/raw/main/kube-tagger-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2021-05-22T20:23:46.353979+02:00"
+    created: "2021-05-24T21:48:30.381657+02:00"
     description: Helm Chart to inject TAGS to EBS
     digest: a1b3c14d9a183ff3fa55b50c4c054a0a4e11f71bf26ffec0d56cb9b7b3f30586
     home: https://github.com/sergiorua/kube-tagger
@@ -39,6 +39,6 @@ entries:
     sources:
     - https://github.com/sergiorua/kube-tagger
     urls:
-    - https://sergiorua.github.io/helm-chart/kube-tagger-3.1.0.tgz
+    - https://github.com/sergiorua/helm-charts/raw/main/kube-tagger-3.1.0.tgz
     version: 3.1.0
-generated: "2021-05-22T20:23:46.353017+02:00"
+generated: "2021-05-24T21:48:30.375382+02:00"
